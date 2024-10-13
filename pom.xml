@@ -2,14 +2,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>UdemySeleniumWithJava</groupId>
 	<artifactId>Selenium-Java</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>4.16.1</version>
 	<dependencies>
 
 		
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
-			<version>4.16.1</version>
+			<version>4.16.1.0</version>
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
